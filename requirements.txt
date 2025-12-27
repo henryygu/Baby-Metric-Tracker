@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+pytz
+pyyaml
+pytest
+httpx
+python-telegram-bot
+sqlalchemy
+pydantic
